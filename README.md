@@ -1,1 +1,1 @@
-Samlple Readme
+Sample Readme
