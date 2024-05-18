@@ -6,8 +6,11 @@ theme: jekyll-theme-minimal
 
 title: Updated Farm Directory
 
+acknow: https://factcapstone.github.io/LandingPage/acknowledge.html
+
 github:
   repository_url: https://github.com/FACTCapstone/FACTDirectory
   repository_nwo: FACTCapstone/FACTDirectory
+  
 
 content:
