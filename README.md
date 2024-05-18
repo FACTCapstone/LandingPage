@@ -1,1 +1,1 @@
-Sample Readme
+The {{site.title}} is a test.
